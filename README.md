@@ -1,6 +1,6 @@
-**Diseñamos una vivienda inteligente y energéticamente eficiente**
+# **Diseñamos una vivienda inteligente y energéticamente eficiente**
 
-**Descripción del proyecto**
+## **Descripción del proyecto**
 
 Este repositorio contiene la guía didáctica, materiales, recursos y herramientas de evaluación del proyecto educativo **"Diseñamos una vivienda inteligente y energéticamente eficiente"**, diseñado para la materia de **Tecnología e Ingeniería I de 1.º de Bachillerato**.
 
@@ -16,7 +16,7 @@ El producto final será una propuesta completa de vivienda inteligente que inclu
 - Elaboración de un portafolio digital.
 - Presentación oral y defensa técnica del proyecto.
 
-**Objetivos de aprendizaje**
+## **Objetivos de aprendizaje**
 
 Con este proyecto se pretende que el alumnado sea capaz de:
 
@@ -29,7 +29,7 @@ Con este proyecto se pretende que el alumnado sea capaz de:
 - Comunicar ideas técnicas de forma clara, visual y estructurada.
 - Reflexionar sobre el papel de la tecnología en la sostenibilidad y en la mejora de la calidad de vida.
 
-**Contexto educativo**
+## **Contexto educativo**
 
 - **Materia:** Tecnología e Ingeniería I
 - **Nivel:** 1.º de Bachillerato
@@ -43,7 +43,7 @@ Con este proyecto se pretende que el alumnado sea capaz de:
 
 El proyecto está pensado para un grupo de Bachillerato de modalidad científica, aunque puede adaptarse a otros contextos educativos en los que se trabajen contenidos relacionados con tecnología, ingeniería, sostenibilidad, energía, instalaciones, diseño digital o automatización.
 
-**Competencias y saberes desarrollados**
+## **Competencias y saberes desarrollados**
 
 | **Competencia específica**                                       | **Aplicación en el proyecto**                                               | **Evidencias**                                     |
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -53,9 +53,9 @@ El proyecto está pensado para un grupo de Bachillerato de modalidad científica
 | CE5. Diseñar soluciones automatizadas                            | El alumnado incorpora sensores, actuadores o sistemas de control            | Esquemas de automatización y documentación técnica |
 | CE6. Analizar sistemas energéticos                               | El alumnado estudia el consumo energético y propone mejoras sostenibles     | Ficha de análisis, debate y justificación técnica  |
 
-**Tecnologías y herramientas**
+## **Tecnologías y herramientas**
 
-**Herramientas digitales**
+### **Herramientas digitales**
 
 - **LibreCAD:** elaboración de planos y croquis sencillos.
 - **SketchUp:** representación tridimensional básica de la vivienda.
@@ -65,7 +65,7 @@ El proyecto está pensado para un grupo de Bachillerato de modalidad científica
 - **Procesador de textos:** elaboración de fichas, diario de grupo y portafolio.
 - **Herramientas colaborativas online:** organización del trabajo grupal.
 
-**Recursos del aula**
+### **Recursos del aula**
 
 - Aula ordinaria.
 - Aula TIC.
@@ -74,9 +74,9 @@ El proyecto está pensado para un grupo de Bachillerato de modalidad científica
 - Pizarra tradicional o digital.
 - Materiales didácticos elaborados por el profesorado.
 
-**Fases del proyecto**
+## **Fases del proyecto**
 
-**Fase 1. Presentación, contextualización e investigación**
+### **Fase 1. Presentación, contextualización e investigación**
 
 **Sesiones 1 a 3**
 
@@ -89,7 +89,7 @@ El alumnado conoce el reto, realiza una evaluación diagnóstica inicial y empie
 - Ficha de análisis.
 - Primeras ideas sobre viviendas eficientes.
 
-**Fase 2. Ideación y propuesta de mejoras**
+### **Fase 2. Ideación y propuesta de mejoras**
 
 **Sesiones 4 y 5**
 
@@ -101,7 +101,7 @@ El alumnado identifica problemas energéticos habituales en una vivienda y propo
 - Listado de problemas y soluciones.
 - Práctica inicial con herramientas digitales.
 
-**Fase 3. Desarrollo técnico del proyecto**
+### **Fase 3. Desarrollo técnico del proyecto**
 
 **Sesiones 6 a 9**
 
@@ -116,7 +116,7 @@ Los grupos diseñan su vivienda inteligente. Definen necesidades, objetivos, sol
 - Esquemas de automatización.
 - Documentación técnica.
 
-**Fase 4. Preparación de la presentación**
+### **Fase 4. Preparación de la presentación**
 
 **Sesiones 10 a 12**
 
@@ -129,7 +129,7 @@ El alumnado organiza la información, prepara la presentación final, revisa la 
 - Portafolio digital revisado.
 - Proyecto finalizado.
 
-**Fase 5. Presentación, defensa y evaluación**
+### **Fase 5. Presentación, defensa y evaluación**
 
 **Sesiones 13 y 14**
 
@@ -143,7 +143,7 @@ Los grupos presentan su vivienda inteligente ante la clase, defienden sus decisi
 - Coevaluación.
 - Evaluación final.
 
-**Evaluación**
+## **Evaluación**
 
 El proyecto utiliza una evaluación continua, formativa y competencial, centrada tanto en el proceso de trabajo como en el producto final.
 
@@ -156,9 +156,9 @@ La evaluación se realiza mediante:
 - Presentación final del proyecto, en la que cada grupo defiende su vivienda inteligente y energéticamente eficiente.
 - Autoevaluación y coevaluación entre iguales para reflexionar sobre el proceso y la participación.
 
-**Guía de uso**
+## **Guía de uso**
 
-**Para el profesorado**
+### **Para el profesorado**
 
 - Revisar la guía didáctica completa antes de iniciar el proyecto.
 - Adaptar la temporalización al calendario real del centro.
@@ -178,7 +178,7 @@ La evaluación se realiza mediante:
 - Evaluar el proceso y el producto final mediante los instrumentos incluidos.
 - Cerrar el proyecto con una reflexión final sobre tecnología, energía y sostenibilidad.
 
-**Para el alumnado**
+### **Para el alumnado**
 
 - Leer el enunciado del proyecto.
 - Realizar el test inicial.
@@ -195,7 +195,7 @@ La evaluación se realiza mediante:
 - Defender oralmente el proyecto.
 - Realizar la autoevaluación y coevaluación.
 
-**Adaptabilidad**
+## **Adaptabilidad**
 
 El proyecto está diseñado para ser transferible y adaptable a diferentes centros educativos.
 
@@ -210,7 +210,7 @@ Puede modificarse en función de:
 - Modalidad de trabajo: individual, parejas o grupos.
 - Producto final: maqueta, diseño digital, presentación, memoria técnica o prototipo.
 
-**Versión simplificada**
+### **Versión simplificada**
 
 Para centros con menos recursos, el proyecto puede realizarse únicamente con:
 
@@ -220,7 +220,7 @@ Para centros con menos recursos, el proyecto puede realizarse únicamente con:
 - Propuesta escrita de mejoras.
 - Esquemas básicos de domótica.
 
-**Versión ampliada**
+### **Versión ampliada**
 
 Para centros con más recursos, se puede incorporar:
 
@@ -231,7 +231,7 @@ Para centros con más recursos, se puede incorporar:
 - Sensores reales de luz, temperatura o humedad.
 - Cálculo estimado de ahorro energético.
 
-**Referencias curriculares**
+## **Referencias curriculares**
 
 El proyecto se basa en:
 
@@ -246,7 +246,7 @@ También se relaciona con los Objetivos de Desarrollo Sostenible:
 - ODS 12: Producción y consumo responsables.
 - ODS 13: Acción por el clima.
 
-**Autores**
+## **Autores**
 
 Proyecto elaborado para el Máster Universitario en Profesor/a de Educación Secundaria.
 
