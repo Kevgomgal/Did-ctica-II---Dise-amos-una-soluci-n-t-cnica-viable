@@ -1,90 +1,103 @@
- # 1\. Evaluación
+# Evaluación de la Situación de Aprendizaje
 
-La evaluación de la presente situación de aprendizaje se concibe como un proceso continuo, formativo, criterial y competencial, alineado con el enfoque metodológico basado en proyectos y con los principios establecidos en la normativa educativa vigente. En coherencia con esta perspectiva, la evaluación no se limita únicamente a valorar el producto final elaborado por el alumnado, sino que acompaña todo el proceso de aprendizaje, permitiendo recoger evidencias del trabajo realizado, orientar la mejora y favorecer la reflexión sobre el propio aprendizaje.
+## Introducción
 
-Dado que la propuesta se basa en el análisis sostenible y tecnológico de una vivienda, resulta especialmente importante evaluar no solo los conocimientos adquiridos, sino también la capacidad del alumnado para investigar, analizar problemas reales, trabajar de forma cooperativa y plantear soluciones fundamentadas desde un punto de vista técnico y sostenible.
+La evaluación de esta situación de aprendizaje se plantea desde un enfoque competencial, continuo, formativo y criterial, alineado con el currículo de Tecnología e Ingeniería I de Bachillerato. El objetivo no es únicamente valorar el producto final desarrollado por el alumnado, sino también el proceso seguido durante el proyecto, la adquisición de competencias específicas y la capacidad para aplicar los conocimientos a una situación real.
 
-La técnica principal de evaluación utilizada es la observación sistemática del trabajo desarrollado por el alumnado durante las distintas sesiones. Esta técnica permite obtener información directa y contextualizada sobre aspectos como la participación, la implicación, la organización del trabajo, la toma de decisiones y la capacidad para aplicar los conocimientos adquiridos en situaciones reales.
+La evaluación se realiza mediante diferentes instrumentos que permiten recoger evidencias a lo largo de todo el desarrollo de la propuesta.
 
-Como instrumento principal de evaluación se emplean las rúbricas de las diferentes evidencias, diseñadas específicamente para valorar tanto el proceso como el resultado final del trabajo realizado. Estas rúbricas se encuentran vinculadas directamente a los criterios de evaluación y competencias específicas de la materia de Tecnología e Ingeniería I, permitiendo evaluar aspectos relacionados con la investigación, el análisis crítico, la sostenibilidad, la resolución de problemas y la comunicación de propuestas técnicas.
+## ¿Qué se evalúa?
 
-Las rúbricas se facilitan al alumnado desde el inicio de la situación de aprendizaje, cumpliendo una doble función. Por un lado, permiten realizar una evaluación objetiva y transparente del aprendizaje, y por otro, actúan como herramienta de orientación y autorregulación, ayudando al alumnado a comprender qué se espera de su trabajo y cómo puede mejorar progresivamente sus propuestas.
+Durante la situación de aprendizaje se evalúan los siguientes aspectos:
 
-## 2.1. Enfoque evaluativo
+- El diseño y planificación de una solución técnica viable.
+- La aplicación de criterios de sostenibilidad y eficiencia energética.
+- La selección justificada de materiales y tecnologías.
+- El uso adecuado de herramientas digitales.
+- La integración de soluciones de automatización y domótica.
+- La capacidad de trabajo cooperativo.
+- La comunicación oral y escrita de ideas técnicas.
+- La reflexión sobre el impacto social y ambiental de las decisiones adoptadas.
 
-La evaluación se desarrolla de forma integrada a lo largo de toda la situación de aprendizaje, combinando evaluación diagnóstica, formativa y sumativa.
+Estos aspectos están vinculados a las competencias específicas y criterios de evaluación recogidos en la guía didáctica del proyecto.
 
-### 2.1.1. Evaluación diagnóstica
+## Momentos de evaluación
 
-Al inicio de la propuesta se realiza una evaluación diagnóstica mediante un test inicial sobre sostenibilidad, eficiencia energética y domótica. Esta evaluación permite conocer los conocimientos previos del alumnado, detectar posibles ideas erróneas y adaptar la intervención docente a las necesidades del grupo.
+### Evaluación inicial
 
-La evaluación diagnóstica no tiene carácter calificable, pero resulta fundamental para planificar adecuadamente el desarrollo de las actividades y establecer una base común de conocimientos.
+Se realiza durante la primera sesión mediante un cuestionario diagnóstico y un debate inicial sobre sostenibilidad, eficiencia energética y viviendas inteligentes.
 
-### 2.1.2. Evaluación formativa y continua
+Su finalidad es conocer los conocimientos previos del alumnado y adaptar el desarrollo de las actividades.
 
-La evaluación formativa se desarrolla durante todo el proceso de aprendizaje mediante la observación directa, la revisión de las actividades realizadas y la retroalimentación constante proporcionada por el docente.
+### Evaluación formativa
 
-Durante las primeras sesiones, centradas en la introducción del proyecto y en la investigación sobre sostenibilidad y eficiencia energética, la evaluación se focaliza en la capacidad del alumnado para identificar problemas, seleccionar información relevante y comprender el funcionamiento de una vivienda desde una perspectiva tecnológica y medioambiental.
+Se desarrolla durante todo el proyecto mediante:
 
-En las sesiones intermedias, relacionadas con el análisis de datos y la elaboración de propuestas de mejora, la evaluación se centra especialmente en el proceso de trabajo, valorando la capacidad para aplicar criterios técnicos y sostenibles, la coherencia de las soluciones planteadas y la participación activa dentro del grupo.
+- Observación directa.
+- Revisión de actividades.
+- Seguimiento de avances.
+- Retroalimentación continua.
 
-A lo largo del desarrollo del proyecto, el docente proporciona retroalimentación continua mediante orientaciones orales, tutorías breves y revisiones periódicas del trabajo realizado. Esta retroalimentación permite corregir errores, orientar el aprendizaje y mejorar progresivamente las propuestas desarrolladas por el alumnado.
+Este proceso permite detectar dificultades y realizar ajustes antes de la entrega final.
 
-### 2.1.3. Evaluación sumativa
+### Evaluación final
 
-La evaluación sumativa se realiza en la fase final de la situación de aprendizaje, valorando tanto el producto final elaborado por cada grupo como la presentación oral de las propuestas desarrolladas.
+Se realiza a través de:
 
-En esta fase se evalúa la calidad técnica de las propuestas de mejora planteadas para la vivienda, la fundamentación de las decisiones tomadas, la coherencia de las soluciones desde el punto de vista sostenible y la capacidad del alumnado para comunicar y defender su proyecto de forma clara y estructurada.
+- Proyecto final.
+- Presentación oral.
+- Autoevaluación.
+- Coevaluación.
 
-Además, el alumnado realiza actividades de autoevaluación y coevaluación que favorecen la reflexión sobre el propio aprendizaje y el funcionamiento del grupo de trabajo.
+Esta evaluación permite comprobar el grado de consecución de los objetivos y competencias planteados.
 
-## 2.2. Instrumentos de evaluación
+## Evidencias de evaluación
 
 La evaluación se articula mediante distintos instrumentos que permiten valorar tanto el proceso de aprendizaje como el resultado final del proyecto. Cada instrumento aporta evidencias diferentes y contribuye a obtener una visión global y competencial del aprendizaje del alumnado.
 
-### 2.2.1. Evaluación diagnóstica (test inicial)
+### Evaluación diagnóstica (test inicial)
 
 Al inicio de la situación de aprendizaje se realiza un test diagnóstico con el objetivo de conocer los conocimientos previos del alumnado sobre sostenibilidad, eficiencia energética, consumo energético y tecnología aplicada al entorno escolar.
 
 Este instrumento no tiene peso en la calificación final, pero resulta fundamental para adaptar las actividades y detectar posibles dificultades o ideas previas.
 
-### 2.2.2. Ficha de análisis
+### Ficha de análisis
 
 El alumnado realiza una primera actividad de investigación y análisis sobre distintos aspectos relacionados con el funcionamiento de una vivienda, como el consumo energético, el uso de recursos o las instalaciones.
 
 Se valora la calidad de la información recopilada, la capacidad de análisis y la identificación de posibles problemas o aspectos susceptibles de mejora.
 
-### 2.2.3. Propuesta de mejora sostenible
+### Propuesta de mejora sostenible
 
 En grupos de trabajo, el alumnado elabora una propuesta de mejora relacionada con la sostenibilidad y la eficiencia de la vivienda.
 
 Se evalúa la coherencia de las propuestas, su viabilidad técnica, la fundamentación de las decisiones adoptadas y la relación con criterios de sostenibilidad y eficiencia energética.
 
-### 2.2.4. Diario de grupo
+### Diario de grupo
 
 El diario de grupo recoge el proceso de trabajo desarrollado por cada equipo, incluyendo los avances realizados, los roles asumidos, las dificultades encontradas y las soluciones adoptadas.
 
 Este instrumento permite evaluar aspectos relacionados con la organización, la colaboración y la reflexión crítica sobre el trabajo realizado.
 
-### 2.2.5. Portafolio digital
+### Portafolio digital
 
 El portafolio digital recopila todas las evidencias generadas durante el desarrollo del proyecto, incluyendo documentos, esquemas, análisis, propuestas, imágenes y reflexiones del alumnado.
 
 Se valora tanto la calidad de los contenidos como la evolución del trabajo y la correcta organización de la información.
 
-### 2.2.6. Presentación final del proyecto
+### Presentación final del proyecto
 
 El alumnado realiza una exposición oral y visual en la que presenta las propuestas de mejora desarrolladas para la vivienda.
 
 Se evalúa la calidad técnica del proyecto, la claridad de la exposición, la capacidad para justificar las decisiones tomadas y el uso adecuado de recursos visuales y digitales.
 
-### 2.2.7. Autoevaluación y coevaluación
+### Autoevaluación y coevaluación
 
 Al finalizar la situación de aprendizaje, el alumnado realiza una valoración tanto de su propio trabajo como del funcionamiento del grupo.
 
 Este instrumento favorece la autorregulación, la reflexión crítica y la implicación del alumnado en su propio proceso de aprendizaje.
 
-### 2.2.8. Observación directa del docente
+### Observación directa del docente
 
 La observación directa se utiliza durante toda la situación de aprendizaje para valorar aspectos como la participación, la implicación, la actitud, la colaboración y la capacidad para resolver problemas.
 
@@ -101,9 +114,11 @@ Esta información sirve como complemento al resto de instrumentos y permite ajus
 | Autoevaluación y coevaluación           | No vinculada a calificación.                                                                                                                                                                                                   | 0%                          |
 | Observación directa del docente         | Seguimiento global de los criterios trabajados durante el desarrollo del proyecto.                                                                                                                                             | \*Ajuste de la calificación |
 
-## 2.3. Rúbricas
+## Instrumentos de evaluación
 
-### 2.3.1. Rúbrica de ficha de análisis
+Para recoger evidencias del aprendizaje se utilizan los siguientes instrumentos:
+
+### Rúbrica de ficha de análisis
 
 | Criterios de evaluación                                                                                     | Insuficiente (0)                                                                          | Suficiente (5)                                                                                         | Bueno (7)                                                                                                       | Excelente (10)                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -112,7 +127,7 @@ Esta información sirve como complemento al resto de instrumentos y permite ajus
 | CRE2.3. Investigación sobre materiales y tecnologías sostenibles aplicables a la vivienda (20%)             | No investiga alternativas o propuestas relacionadas con nuevos materiales o tecnologías.  | Menciona algunas alternativas sostenibles sin profundizar en sus características o impacto.            | Investiga materiales o tecnologías sostenibles y analiza sus posibles aplicaciones en la vivienda.              | Investiga diversas soluciones innovadoras, valorando detalladamente su impacto social, ambiental y su contribución a la sostenibilidad de la vivienda.       |
 | CRE6.1. Análisis de sistemas energéticos y valoración de su eficiencia (30%)                                | No identifica los sistemas energéticos presentes o realiza un análisis incorrecto.        | Identifica algunos sistemas energéticos, aunque con escasa valoración de su eficiencia.                | Analiza los sistemas energéticos principales de la vivienda y realiza una valoración razonada de su eficiencia. | Analiza de forma detallada los sistemas energéticos, interpreta datos de consumo y evalúa críticamente su eficiencia, identificando oportunidades de mejora. |
 
-2.3.2. Rúbrica de ficha de mejoras
+Rúbrica de ficha de mejoras
 
 | Criterios de evaluación                                                          | Insuficiente (0)                                                                               | Suficiente (5)                                                                        | Bueno (7)                                                                                                       | Excelente (10)                                                                                                                                                                             |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -122,7 +137,7 @@ Esta información sirve como complemento al resto de instrumentos y permite ajus
 | CRE5.4. Diseño de procesos automatizados (25%)                                   | No plantea ningún proceso automatizado o este resulta incorrecto.                              | Propone procesos automatizados básicos con escasa relación con la solución planteada. | Diseña procesos automatizados sencillos y coherentes.                                                           | Diseña procesos automatizados claros, eficientes y bien estructurados relacionados con la sostenibilidad de la vivienda.                                                                   |
 | CRE6.2. Mejora de la eficiencia energética y sostenibilidad de la vivienda (25%) | La propuesta no contribuye a mejorar la sostenibilidad o eficiencia energética de la vivienda. | Propone mejoras básicas con impacto limitado o poco justificado.                      | Presenta soluciones viables orientadas a mejorar la eficiencia energética y el uso responsable de los recursos. | Propone mejoras innovadoras y técnicamente fundamentadas que optimizan significativamente la eficiencia energética, la sostenibilidad y el uso responsable de los recursos de la vivienda. |
 
-### 2.3.3. Rúbrica de diario de grupo
+### Rúbrica de diario de grupo
 
 | Criterios de evaluación                                                     | Insuficiente (0)                                                                                                                               | Suficiente (5)                                                                                                  | Bueno (7)                                                                                                                            | Excelente (10)                                                                                                                                                                            |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -130,7 +145,7 @@ Esta información sirve como complemento al resto de instrumentos y permite ajus
 | CRE1.6. Colaboración, desempeño de roles y bienestar grupal (40%)           | No se evidencian los roles asumidos ni la colaboración entre los miembros del grupo. Existen conflictos no gestionados o falta de implicación. | Se identifican los roles y algunas tareas realizadas, aunque con escasa coordinación o participación desigual.  | Refleja una colaboración adecuada, el cumplimiento de los roles asignados y una participación equilibrada de los miembros del grupo. | Evidencia una colaboración efectiva y organizada, con roles claramente definidos, escucha activa, apoyo mutuo y una contribución equilibrada de todos los integrantes del equipo.         |
 | CRE3.3. Uso ético y responsable de herramientas digitales (20%)             | No utiliza herramientas digitales adecuadamente o realiza un uso irresponsable de la información y los recursos digitales.                     | Utiliza herramientas digitales básicas, aunque con escasa atención a aspectos éticos o de organización.         | Utiliza correctamente herramientas digitales para documentar y organizar el trabajo, respetando normas básicas de uso responsable.   | Emplea herramientas digitales de forma eficaz, organizada y responsable, respetando la autoría de la información, protegiendo los datos y favoreciendo la colaboración digital del grupo. |
 
-### 2.3.4. Rúbrica de portafolio digital
+### Rúbrica de portafolio digital
 
 | Criterios de evaluación                                                                 | Insuficiente (0)                                                                                                                   | Suficiente (5)                                                                                                                    | Bueno (7)                                                                                                                                                        | Excelente (10)                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -147,7 +162,7 @@ Esta información sirve como complemento al resto de instrumentos y permite ajus
 | CRE6.1. Evaluación de sistemas energéticos y eficiencia (10%)                           | No analiza sistemas energéticos ni aspectos relacionados con la eficiencia.                                                        | Identifica algunos sistemas energéticos de forma superficial.                                                                     | Analiza adecuadamente sistemas energéticos y su eficiencia.                                                                                                      | Realiza un análisis detallado de sistemas energéticos, valorando su rendimiento y eficiencia.                                                                                                                                      |
 | CRE6.2. Análisis de instalaciones desde la sostenibilidad y eficiencia energética (10%) | No considera aspectos de sostenibilidad o eficiencia energética.                                                                   | Identifica algunas medidas relacionadas con la sostenibilidad.                                                                    | Analiza las instalaciones considerando criterios de sostenibilidad y eficiencia energética.                                                                      | Evalúa críticamente las instalaciones y propone mejoras fundamentadas para aumentar la sostenibilidad y la eficiencia energética.                                                                                                  |
 
-### 2.3.1. Rúbrica de presentación
+### Rúbrica de presentación
 
 | Criterios de evaluación                                                                        | Insuficiente (0)                                                                                         | Suficiente (5)                                                                                                    | Bueno (7)                                                                                                               | Excelente (10)                                                                                                                                                                               |
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -155,3 +170,30 @@ Esta información sirve como complemento al resto de instrumentos y permite ajus
 | CRE3.2. Presentación del proyecto mediante herramientas digitales (30%)                        | No utiliza herramientas digitales adecuadas o la presentación resulta desorganizada y difícil de seguir. | Utiliza herramientas digitales básicas, aunque con limitaciones en el diseño o la organización de la información. | Emplea correctamente herramientas digitales para presentar el proyecto de forma clara y estructurada.                   | Utiliza herramientas digitales de manera eficaz y creativa, elaborando una presentación visualmente atractiva, organizada y profesional.                                                     |
 | CRE5.3. Explicación del funcionamiento y control de los sistemas tecnológicos propuestos (20%) | No explica el funcionamiento de los sistemas tecnológicos o presenta errores conceptuales importantes.   | Describe de forma básica el funcionamiento de los sistemas diseñados.                                             | Explica adecuadamente cómo funcionan y se controlan los sistemas tecnológicos incorporados al proyecto.                 | Explica con precisión y profundidad el funcionamiento de los sistemas tecnológicos, justificando el uso de tecnologías emergentes y sus ventajas para el proyecto.                           |
 | CRE6.2. Justificación de las propuestas de sostenibilidad y eficiencia energética (25%)        | No relaciona las propuestas con la sostenibilidad o la eficiencia energética.                            | Presenta una justificación limitada o poco fundamentada de las mejoras propuestas.                                | Justifica adecuadamente las medidas adoptadas para mejorar la sostenibilidad y la eficiencia energética de la vivienda. | Argumenta de forma rigurosa y fundamentada las propuestas de mejora, demostrando su impacto positivo sobre la sostenibilidad, la eficiencia energética y el uso responsable de los recursos. |
+
+## Materiales de evaluación incluidos en el repositorio
+
+**Todos los materiales necesarios para la implementación y evaluación de la situación de aprendizaje se encuentran organizados dentro del repositorio para facilitar su localización y utilización por parte del profesorado.**
+
+### Carpeta 1.3. Materiales
+
+**En esta carpeta se encuentran todos los recursos necesarios para el desarrollo de las actividades propuestas a lo largo de la situación de aprendizaje:**
+
+- **Enunciados de las actividades.**
+- **Fichas de trabajo para el alumnado.**
+- **Presentaciones utilizadas durante las sesiones.**
+- **Recursos complementarios necesarios para el desarrollo del proyecto.**
+
+**Además, se incluye un documento explicativo en el que se describe la función de cada material y el momento de utilización dentro de la secuencia didáctica.**
+
+### Carpeta 1.5. Evaluación
+
+**En esta carpeta se encuentran los instrumentos necesarios para llevar a cabo el proceso de evaluación del alumnado:**
+
+- **Test diagnóstico inicial.**
+- **Cuestionario de autoevaluación.**
+- **Cuestionario de coevaluación.**
+- **Rúbricas e instrumentos de evaluación.**
+- **Documento explicativo del sistema de evaluación empleado en la situación de aprendizaje.**
+
+**Se recomienda al profesorado revisar previamente el documento explicativo de evaluación para conocer los instrumentos utilizados, los momentos de aplicación y la relación existente entre los criterios de evaluación, las competencias específicas y las evidencias generadas por el alumnado durante el proyecto.**
