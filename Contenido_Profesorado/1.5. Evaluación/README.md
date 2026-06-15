@@ -103,7 +103,7 @@ La observación directa se utiliza durante toda la situación de aprendizaje par
 
 Esta información sirve como complemento al resto de instrumentos y permite ajustar la valoración final del proceso de aprendizaje.
 
-| Instrumento                             | Criterios                                                                                                                                                                                                                      | Ponderación                 |
+| Evidendcias                             | Criterios                                                                                                                                                                                                                      | Ponderación                 |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
 | Evaluación diagnóstica (test inicial)   | No vinculada a calificación.                                                                                                                                                                                                   | 0%                          |
 | Ficha de análisis                       | CRE1.1 - 30%<br><br>CRE2.1 - 20%<br><br>CRE2.3 - 20%<br><br>CRE6.1 - 30%                                                                                                                                                       | 10%                         |
