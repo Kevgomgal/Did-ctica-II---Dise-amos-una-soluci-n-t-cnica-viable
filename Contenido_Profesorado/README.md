@@ -182,6 +182,15 @@ La ponderación se asigna a los criterios de evaluación seleccionados, aseguran
 
 ## Total criterios ponderados: **100%** 
 
+| Competencia específica | Descripción                                            | Ponderación |
+| ---------------------- | ------------------------------------------------------ | ----------- |
+| **CE1**                | Diseño y desarrollo del proyecto tecnológico           | **40 %**    |
+| **CE2**                | Selección de materiales y sostenibilidad               | **15 %**    |
+| **CE3**                | Competencia digital y uso de herramientas tecnológicas | **15 %**    |
+| **CE5**                | Automatización y control de sistemas tecnológicos      | **25 %**    |
+| **CE6**                | Energía y sostenibilidad                               | **15 %**    |
+| **TOTAL**              |                                                        | **110 %**   |
+
 ### **Autoevaluación y coevaluación**
 
 El alumnado valora su propio trabajo y el funcionamiento del grupo. Este instrumento no tiene peso directo en la calificación final, pero permite fomentar la reflexión, la responsabilidad individual y la mejora del trabajo cooperativo.
