@@ -191,17 +191,6 @@ Recordad: no se trata de leer diapositivas, sino de explicar y defender vuestra 
 
 La evaluación será continua, formativa y competencial. Se valorará tanto el resultado final como el proceso de trabajo seguido por el grupo.
 
-La calificación final se repartirá así:
-
-| Instrumento                    | Ponderación |
-| ------------------------------ | ----------- |
-| Ficha de análisis              | 10%         |
-| Propuesta de mejora sostenible | 15%         |
-| Diario de grupo                | 15%         |
-| Portafolio digital             | 40%         |
-| Presentación final             | 20%         |
-| **Total**                      | **100%**    |
-
 El test inicial no cuenta para la nota final. La autoevaluación, la coevaluación y la observación del docente servirán para reflexionar sobre el proceso y ajustar la valoración del trabajo realizado.
 
 ## **Criterios de evaluación**
