@@ -167,21 +167,6 @@ La evaluación se realiza mediante rúbricas específicas para cada evidencia: f
 | Autoevaluación y coevaluación        | No vinculada a calificación directa                                                                                                                                               | 0%                        |
 | Observación directa del docente      | Seguimiento global de los criterios trabajados durante el desarrollo del proyecto                                                                                                 | Ajuste de la calificación |
 
-### **Resumen de la calificación**
-
-La calificación final se obtiene a partir de los siguientes instrumentos evaluables:
-
-| Instrumento evaluable          | Ponderación |
-| ------------------------------ | ----------- |
-| Ficha de análisis              | 10%         |
-| Propuesta de mejora sostenible | 15%         |
-| Diario de grupo                | 15%         |
-| Portafolio digital             | 40%         |
-| Presentación final             | 20%         |
-| **Total**                      | **100%**    |
-
-El test inicial no tiene peso en la calificación final, ya que se utiliza para conocer los conocimientos previos del alumnado. La autoevaluación y la coevaluación sirven para favorecer la reflexión sobre el proceso de aprendizaje. La observación directa del docente se utiliza como ajuste global de la calificación, especialmente para valorar la participación, la implicación, la colaboración y la evolución del alumnado durante el proyecto.
-
 ### **Autoevaluación y coevaluación**
 
 El alumnado valora su propio trabajo y el funcionamiento del grupo. Este instrumento no tiene peso directo en la calificación final, pero permite fomentar la reflexión, la responsabilidad individual y la mejora del trabajo cooperativo.
